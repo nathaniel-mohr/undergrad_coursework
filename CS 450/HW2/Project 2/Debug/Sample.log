@@ -1,0 +1,13 @@
+﻿  sample.cpp
+C:\Users\Nathaniel\Documents\College\CS 450\HW2\SampleFreeGlut2019\sample.cpp(327,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW2\SampleFreeGlut2019\sample.cpp(335,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW2\SampleFreeGlut2019\sample.cpp(336,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW2\SampleFreeGlut2019\sample.cpp(404,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW2\SampleFreeGlut2019\sample.cpp(638,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW2\SampleFreeGlut2019\sample.cpp(640,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW2\SampleFreeGlut2019\sample.cpp(642,46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW2\SampleFreeGlut2019\sample.cpp(644,45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW2\SampleFreeGlut2019\sample.cpp(651,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW2\SampleFreeGlut2019\sample.cpp(924,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Nathaniel\Documents\College\CS 450\HW2\SampleFreeGlut2019\.\Debug\Sample.exe

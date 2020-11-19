@@ -1,0 +1,2 @@
+﻿mohrna.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Nathaniel\Documents\College\CS 491\Project 5\Particles2017WrapperNew\.\Debug\Sample.exe

@@ -1,0 +1,15 @@
+﻿  sample.cpp
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(382,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(428,93): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(428,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(428,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(428,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(432,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(432,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(441,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(443,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(459,27): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(459,22): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\sample.cpp(1098,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Nathaniel\Documents\College\CS 450\HW4\Project 4\.\Debug\Sample.exe

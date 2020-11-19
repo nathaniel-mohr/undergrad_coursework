@@ -1,0 +1,21 @@
+﻿  sample.cpp
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\glui.h(758,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\glui.h(758,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(247,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(248,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(251,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(252,62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(268,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(319,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(323,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(323,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(356,17): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(445,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(461,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(490,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(502,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(511,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(962,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\sample.cpp(963,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Nathaniel\Documents\College\CS 491\Project 7\ChainWrapper2017New\.\Debug\Sample.exe

@@ -1,0 +1,14 @@
+﻿  sample.cpp
+C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\sample.cpp(708,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\sample.cpp(711,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\sample.cpp(719,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\sample.cpp(719,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\sample.cpp(724,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\sample.cpp(725,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\sample.cpp(741,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\sample.cpp(744,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\sample.cpp(747,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\sample.cpp(750,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\sample.cpp(1100,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Nathaniel\Documents\College\CS 450\HW1\Project 1\.\Debug\Sample.exe

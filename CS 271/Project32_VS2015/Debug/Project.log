@@ -1,0 +1,22 @@
+﻿Build started 1/15/2019 8:31:30 PM.
+     1>Project "C:\Users\Nathaniel\Documents\College\CS 271\Project32_VS2015\Project.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Project.tlog\unsuccessfulbuild".
+       _MASM:
+         Assembling Snake.asm...
+         cmd.exe /C "C:\Users\Nathaniel\AppData\Local\Temp\tmp71db60a5ecde4b038aafff1be7b55eba.cmd"
+         ml.exe /c /nologo /Sg /Zi /Fo"Debug\Snake.obj" /Fl"Project.lst" /I "c:\Irvine" /W3 /errorReport:prompt  /TaSnake.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Nathaniel\Documents\College\CS 271\Project32_VS2015\Debug\Project.exe" /NOLOGO /LIBPATH:c:\Irvine user32.lib irvine32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Nathaniel\Documents\College\CS 271\Project32_VS2015\Debug\Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"C:\Users\Nathaniel\Documents\College\CS 271\Project32_VS2015\Debug\Project.lib" /MACHINE:X86 /SAFESEH:NO Debug\Snake.obj
+         LINK : C:\Users\Nathaniel\Documents\College\CS 271\Project32_VS2015\Debug\Project.exe not found or not built by the last incremental link; performing full link
+         Project.vcxproj -> C:\Users\Nathaniel\Documents\College\CS 271\Project32_VS2015\Debug\Project.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Project.tlog\unsuccessfulbuild".
+         Touching "Debug\Project.tlog\Project.lastbuildstate".
+     1>Done Building Project "C:\Users\Nathaniel\Documents\College\CS 271\Project32_VS2015\Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:03.80

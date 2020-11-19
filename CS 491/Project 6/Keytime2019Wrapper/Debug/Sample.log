@@ -1,0 +1,5 @@
+﻿  sample.cpp
+C:\Users\Nathaniel\Documents\College\CS 491\Project 6\Keytime2019Wrapper\sample.cpp(639,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 6\Keytime2019Wrapper\sample.cpp(639,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Nathaniel\Documents\College\CS 491\Project 6\Keytime2019Wrapper\.\Debug\Sample.exe

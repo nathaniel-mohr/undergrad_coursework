@@ -1,0 +1,30 @@
+﻿  sample.cpp
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\glui.h(758,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\glui.h(758,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(261,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(283,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(284,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(358,14): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(427,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(501,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(643,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(648,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(648,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(979,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(980,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1055,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1083,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1085,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1086,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1087,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1147,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1153,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1173,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1261,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1262,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1267,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1276,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1394,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\sample.cpp(1395,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\Users\Nathaniel\Documents\College\CS 491\Project 4\BounceWrapper2017New\.\Debug\Sample.exe
