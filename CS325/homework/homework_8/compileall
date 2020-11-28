@@ -1,2 +1,0 @@
-#!/bin/bash
-g++ binpack.cpp -o binpack
