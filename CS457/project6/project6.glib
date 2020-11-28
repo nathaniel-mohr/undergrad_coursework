@@ -1,0 +1,24 @@
+##OpenGL GLIB
+
+Perspective 70
+LookAt 0 0 3  0 0 0  0 1 0
+
+Vertex          project6.vert
+Fragment        project6.frag
+Program    Project6                                 \
+                uKa <0. 0.1 1.0>                \
+                uKd <0. 0.6 1.0>                \
+                uKs <0. 0.3 1.0>                \
+                uShininess <3. 10. 1000.>       \
+                uLightX <-20. 5. 20.>           \
+                uLightY <-20. 10. 20.>          \
+                uLightZ <-20. 20. 20.>          \
+                uMorph <-1 0 1> \
+                uColorOne {1 0 0 1.}            \
+                uColorTwo {0 0 1 1.}            \
+                uColorThree {0 1 0 1.}            \
+                uBoundOne <-1.5 -.5 0> \
+                uBoundTwo <0 .5 1.5> \
+                uSpecularColor {1. 1. 1. 1.}    \
+
+Obj ratL.obj

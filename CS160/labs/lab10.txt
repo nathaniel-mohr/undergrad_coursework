@@ -1,0 +1,2 @@
+This function uses the distance formula to calculate how far two coordinates are from each other
+This function can be used in the Hansel and Gretel problem to find which pebble is the closet pebble to where Hansel and Gretel are

@@ -1,0 +1,12 @@
+Nathaniel Mohr Homework 8
+
+Example bin.txt:
+The first line is the number of test cases,
+followed by the capacity of bins for that test case,
+the number of itemsand then the weight of each item.  
+You can assume that the weight of an item does not exceed the capacity of a bin for that problem.
+
+Instructions to compile and run:
+
+1) Run "./compileall" to run the script to compile the files
+2) Run "./binpack" to run

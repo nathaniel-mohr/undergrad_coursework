@@ -1,0 +1,9 @@
+x represents the number of bits being used 
+We subtract one in the exponent because the signed numbers use the last bit for the sign
+We subtract one in the expression because 0 is counted as one of the numbers
+
+The result of each rand() is different for all 6 calls
+The result of each rand() is only different in the two calls in one execution, then 
+	the same two numbers are repeated for the next two executions of the program
+The result of the two rand() are the same within the same execution but the 3 	
+	pairs are different from each other

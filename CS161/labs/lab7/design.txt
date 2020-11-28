@@ -1,0 +1,23 @@
+void getString(string *)
+	continue to ask the user for a string until the length is greater than 0
+	point the pointer towards the string
+
+void setReplaceString(string, string *)
+	for(length of string *)
+		if(character at i does not equal a space)
+				character at i of string equal dash	
+
+int getSearchReplace(char, string, string &)
+	for(length of string&)
+		if(character at i equals character given)
+				character at string equal char
+				counter++
+	return counter
+
+
+int main
+	getString(pointer)
+	set a string equal to where the pointer is pointing
+	setReplaceString(copy, pointer)
+	getSearchReplace(char, copy, pointer&)
+

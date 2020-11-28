@@ -1,0 +1,4 @@
+
+0(18) : error C1008: undefined variable "r"
+0(18) : error C1008: undefined variable "r"
+

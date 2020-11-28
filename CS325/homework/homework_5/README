@@ -1,0 +1,16 @@
+Nathaniel Mohr Homework 5
+
+File format:
+n
+wrestler names
+    :
+    :
+r
+rivalries
+    :
+    :
+
+Instructions to compile and run:
+
+1) Run "./compileall" to run the script to compile the files
+2) Run "./wrestlers [fileName]"

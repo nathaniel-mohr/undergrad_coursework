@@ -1,0 +1,20 @@
+Question 1: Removing the semi-colon made it so when trying to compile the code,
+	the terminal gave an error saying that it expected a ';' 
+
+Question 2: After removing the iostream, the terminal said that 'endl' and 'cout'
+	were not members of std
+
+Question 3: Removing the "<< std::endl" allowed for it to be compiled and executed but
+	when the terminal printed out "Hello World!" then the terminal continued
+	on that line and not on the next line
+
+Question 4: The first program simpling prints out "Hello World!" while the second
+	program allows the user to have some choice in what is printed
+
+Question 5: Changing the symbol made the terminal say that there was no match for 
+	the operator and then it printed out a long list of directories and notes
+
+Question 6: You need to create a variable so that when the user inputs an integer 
+	the computer can print that same number back. If there was no variable
+	then the integer would just disappear
+

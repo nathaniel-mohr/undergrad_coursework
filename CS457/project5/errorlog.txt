@@ -1,0 +1,3 @@
+
+0(22) : error C1008: undefined variable "vSt"
+

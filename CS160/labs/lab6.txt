@@ -1,0 +1,13 @@
+In the daysInWeek function, the name tells the user that the function gives the number of days in a week
+There are no parameters
+The definition is 7 days
+In the daysinMonth function, the name tells the user it will give the number of days in a month
+The parameter is an integer
+The definition is an integer which is calculated by multiplying the daysInWeek function by 4 and m
+
+555 * 345 = 191475
+** raises the first number to the power of the second number
+div gives a rounded answer and / gives the full number
+mod gives the remainder from division 
+
+52 * daysInWeek = 364

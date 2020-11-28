@@ -1,0 +1,16 @@
+##OpenGL GLIB
+Perspective 90
+LookAt 0 0 2 0 0 0 0 1 0
+
+Vertex project2.vert
+Fragment project2.frag
+Program Project2 \
+  uAd <.001 .1 .5> uBd <.001 .1 .5>           \
+  uNoiseAmp <0. 0. 1.> uNoiseFreq <0. 1. 10.>  \
+  uPow <0. 2. 4> \
+  uAlpha <0. 1. 1.> \
+  uTol <0. 0. 1.> \
+  uColorOne {1. 1. 0. 1.} uColorTwo {1. 0. 1. 1.}
+
+Color 1 1 0
+Obj ratL.obj

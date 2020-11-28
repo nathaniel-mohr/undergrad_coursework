@@ -1,0 +1,7 @@
+Nathaniel Mohr Homework 1
+
+Instructions to compile and run:
+
+1) Run "./compileall" to run the script to compile the files
+2) Run "./mergesort" or "./insertsort" to run each sorting algorithm
+3) Run "./mergeTime" or "./insertTime" to run each timing program
