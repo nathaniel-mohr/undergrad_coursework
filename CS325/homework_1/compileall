@@ -1,0 +1,5 @@
+#!/bin/bash
+g++ insertsort.cpp -o insertsort
+g++ mergesort.cpp -o mergesort
+g++ insertTime.cpp -o insertTime
+g++ mergeTime.cpp -o mergeTime

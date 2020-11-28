@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ badSort.cpp -o badSort
+g++ badSortTime.cpp -o badSortTime
