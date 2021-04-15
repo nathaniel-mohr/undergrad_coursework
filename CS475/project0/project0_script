@@ -1,0 +1,11 @@
+#!/bin/bash
+
+g++ -DNUMT=1 project0.cpp -o project0 -lm -fopenmp
+./project0
+
+echo  ""
+g++ -DNUMT=4 project0.cpp -o project0 -lm -fopenmp
+./project0
+
+rm project0
+

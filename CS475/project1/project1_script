@@ -1,0 +1,17 @@
+#!/bin/bash
+
+for threads in 1 2 4 8 16
+do
+    for trials in 1 10 100 1000 10000 100000 1000000
+    do
+        g++ -DNUMTRIALS=$trials -DNUMT=$threads project1.cpp -o project1 -lm -fopenmp
+        ./project1
+    done
+    echo >> project1_performance.csv
+    echo >> project1_probability.csv
+done
+
+rm project1
+
+sed -i 's/,$//' project1_performance.csv
+sed -i 's/,$//' project1_probability.csv
