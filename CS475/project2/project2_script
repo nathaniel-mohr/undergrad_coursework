@@ -1,0 +1,21 @@
+#!/bin/bash
+project_num = project2
+
+perf = "project2_performance.csv"
+vol = "project2_volume.csv"
+
+new_line=$(echo | tee -a project2_performance.csv project2_volume.csv >/dev/null)
+
+echo """,4,16,64,128,256,512,1024,2048" | tee -a $perf $vol >/dev/null
+
+for threads in 1 2 4 8 16
+do
+    for nodes in 4 16 64 128 256 512 1024 2048
+    do
+        echo -n "$threads" | tee -a $perf $vol >/dev/null
+        g++ -DNUMNODES=$nodes -DNUMT=$threads project2.cpp -o project2 -lm -fopenmp
+        ./project2
+    done
+    $new_line
+done
+rm project2
