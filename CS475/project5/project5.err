@@ -1,0 +1,80 @@
+        2048	  16	     68.97
+probability =  10.01%
+        2048	  32	     62.50
+probability =  10.01%
+        2048	  64	     62.50
+probability =  10.01%
+        2048	 128	     71.43
+probability =  10.01%
+        4096	  16	    137.93
+probability =   9.67%
+        4096	  32	    137.93
+probability =   9.67%
+        4096	  64	    137.93
+probability =   9.67%
+        4096	 128	    142.86
+probability =   9.67%
+        8192	  16	    275.86
+probability =   9.64%
+        8192	  32	    258.06
+probability =   9.64%
+        8192	  64	    275.86
+probability =   9.64%
+        8192	 128	    250.00
+probability =   9.64%
+       16384	  16	    470.59
+probability =   9.45%
+       16384	  32	    551.72
+probability =   9.45%
+       16384	  64	    551.72
+probability =   9.45%
+       16384	 128	    551.72
+probability =   9.45%
+       32768	  16	    958.80
+probability =   9.84%
+       32768	  32	    936.01
+probability =   9.84%
+       32768	  64	   1077.89
+probability =   9.84%
+       32768	 128	   1064.45
+probability =   9.84%
+       65536	  16	   1754.93
+probability =   9.94%
+       65536	  32	   1504.78
+probability =   9.94%
+       65536	  64	   2079.19
+probability =   9.94%
+       65536	 128	   2096.21
+probability =   9.94%
+      131072	  16	   3007.34
+probability =   9.93%
+      131072	  32	   3531.03
+probability =   9.93%
+      131072	  64	   3785.58
+probability =   9.93%
+      131072	 128	   3934.68
+probability =   9.93%
+      262144	  16	   4566.33
+probability =  10.03%
+      262144	  32	   5936.23
+probability =  10.03%
+      262144	  64	   6798.34
+probability =  10.03%
+      262144	 128	   7230.36
+probability =  10.03%
+      524288	  16	   5914.80
+probability =  10.00%
+      524288	  32	   7585.19
+probability =  10.00%
+      524288	  64	   9246.05
+probability =  10.00%
+      524288	 128	   9887.75
+probability =  10.00%
+     1024000	  16	   7134.89
+probability =  10.03%
+     1024000	  32	  11331.44
+probability =  10.03%
+     1024000	  64	  13640.24
+probability =  10.03%
+     1024000	 128	  14090.71
+probability =  10.03%

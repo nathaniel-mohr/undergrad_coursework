@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo """,1,2,4,8" | tee -a "nsmTime.csv" "smTime.csv" "nsmsTime.csv" "smsTime.csv" >/dev/null
+for sizes in 1000 10000 100000 500000 1000000 2000000 4000000 8000000
+do
+    for threads in 1 2 4 8
+    do
+        echo -n "$sizes" | tee -a "nsmTime.csv" "smTime.csv" "nsmsTime.csv" "smsTime.csv" >/dev/null
+        g++ -o arraymult -DNUMT=$threads -DSIZE=$sizes arraymult.cpp simd.asm.cpp -lm -fopenmp
+        ./arraymult
+    done
+    echo | tee -a "nsmTime.csv" "smTime.csv" "nsmsTime.csv" "smsTime.csv" >/dev/null
+done
+
+rm arraymult
