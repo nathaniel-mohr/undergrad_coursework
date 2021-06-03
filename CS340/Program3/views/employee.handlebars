@@ -1,0 +1,50 @@
+<html>
+<h1> Company Database </h1>
+
+<h3>Current employees:</h3>
+{{#if PNO}}
+    <h4>Project {{PNO}}: {{Pname}} located in {{Plocation}}</h4>
+{{/if}}
+<table>
+    <thead> 
+        <th>First Name</th> 
+        <th>Last Name</th> 
+        <th>Salary</th>
+        <th>Dno</th>  
+    </thead> 
+    <tbody>
+        {{#each employee}} 
+        <tr> 
+            <td>{{Fname}}</td> 
+            <td>{{Lname}}</td> 
+            <td>{{Salary}}</td> 
+            <td>{{Dno}}</td>
+        </tr> 
+        {{/each}} 
+    </tbody> 
+</table> 
+<p></p>
+<form id='filter_people' action='' method=''>
+<!--- this form does not submit directly, the button handles all the interaction with backend -->
+    <label> Filter by Project </label>
+    <select id='project_filter' name="project"> 
+        {{#each projects}}
+        <option value="{{Pnumber}}">{{Pname}}</option>
+        {{/each}}
+    </select>
+    <input type="button"  value="Filter" onclick="filterEmployeesByProject()">
+</form>
+<p></p>
+<form id='search_employee' action='' method=''>
+<!--- this form does not submit directly, the button handles all the interaction with backend -->
+    <label> Search employees for first name starting with:</label>
+    <input id='first_name_search_string' type='text' name='first_name_search_string' value=''>
+    <input type="button" value="Search" onclick="searchEmployeesByFirstName()">
+</form>
+<br>
+<a type="button" href="/employee"> Clear Filters </a>
+
+<p>
+<hr>
+by <i>mohrna</i>
+</html>

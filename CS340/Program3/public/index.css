@@ -1,0 +1,64 @@
+html{
+    padding:5px 20px;
+}
+
+table{
+    width: 25%;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+table, td, th{
+    border: 1px solid black;
+    padding:5px;
+}
+
+tr:nth-child(even) {
+    background-color:#e1ebec;
+}
+
+tr:hover{
+    font-weight: bold;
+}
+
+th{
+    background-color: black;
+    color: white;
+}
+
+#project_filter{
+    padding: 5px;
+    box-sizing: border-box;
+    margin:2px;
+}
+
+a[type=button]{
+    padding: 2px 6px;
+}
+
+[type=button]{
+    background-color: #5b8d8b;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 4px 2px;
+    font-size: 18px;
+}
+
+[type=button]:hover{
+    color: black;
+}
+
+input[type=text]{
+    background-color: lightgrey;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+}
+
+input[type=text]:focus{
+    background-color: white;
+}
